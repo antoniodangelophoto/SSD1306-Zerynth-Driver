@@ -4,7 +4,7 @@
  Driver Developed for GEMINI PROJECT
  
  Credit to:
-  @ Antonio D'Angelo
-  @ Federica Capobianco
-  @ Edoardo Bavaro
-  @ Giuseppe Maria Dell'Orto
+  - @ Antonio D'Angelo
+  - @ Federica Capobianco
+  - @ Edoardo Bavaro
+  - @ Giuseppe Maria Dell'Orto
