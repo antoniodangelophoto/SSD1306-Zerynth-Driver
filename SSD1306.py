@@ -617,10 +617,7 @@ while True:
     stampaBitmap(cuore[1])
     sleep(timeRefresh)
 
-    
-
-
-#dastampare="cazzooooo" [::-1]
+  
 #stampastringa(dastampare.upper())
 #dastampare="b" [::-1]
 #stampastringa(dastampare.upper())
